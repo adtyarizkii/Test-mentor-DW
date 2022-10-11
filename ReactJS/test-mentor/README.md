@@ -1,6 +1,6 @@
 ## State
 
-File: `pages/UseState.js`
+File: `src/pages/UseState.js`
 
 - Init useState
 
